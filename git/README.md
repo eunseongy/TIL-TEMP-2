@@ -7,4 +7,4 @@
         -타겟 브랜치는 브랜치 전략에 따라 main이 될 수도 있고, develpement 브랜치가 될 수도 있다.
 - Pull Request
     - GitHub에서 작업브랜치를 주요 브랜치로 병합할 때 쓰는 기능이다.
-    - P.S. GitLab에서는 Pull Request라는 용어 대신 Merge Request라는 용어를 쓴다.
+    - P.S. GitLab에서는 Pull Request라는 용어 대신 Merge Request라는 용어를 쓴다..
